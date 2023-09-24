@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Aberdonned House
+* source:	https://sketchfab.com/3d-models/old-aberdonned-house-9f9fdefacd4f494bad95aaf7867580cc
+* author:	Cave (https://sketchfab.com/cave)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Aberdonned House" (https://sketchfab.com/3d-models/old-aberdonned-house-9f9fdefacd4f494bad95aaf7867580cc) by Cave (https://sketchfab.com/cave) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
